@@ -1,0 +1,13 @@
+# File di servizio creati da Windows
+Thumbs.db
+desktop.ini
+
+# Cartelle di appoggio di Visual Studio Code
+.vscode/
+
+# File temporanei di Office e file di registro 
+~$*
+*.log
+
+# Appunti personali che non vanno publicati
+bozze/
