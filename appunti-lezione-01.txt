@@ -1,6 +1,0 @@
-cd $HOME
-mkdir TPSIT
-cd TPSIT
-git clone https://github.com/alessiogalvagni/sito-tpsit.git
-cd sito-tpsit
-code .
